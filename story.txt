@@ -1,0 +1,25 @@
+# lines starting with "#" are comments
+
+# Examples:
+
+# Describe only what you have learned, not what you experienced, or who was there.
+
+# TEMPLATE
+# A private note of what this memory is about: I remember the elders, all women, all married, laughing, talking about life.
+# Followed by what this has taught you:
+I learned that we begin alone, we start on a lonely journey to earn kindness and love. kid.png
+
+# ENTRY
+# MEMORY: A classroom of bullies
+# LESSON:
+In the deepest loneliness we still have our elderselves, we can ask ourselves to stand up to snarling beasts long enough to later comeback and keep ourselves company.
+
+# TEMPLATE
+# A private note of what this memory is about: I heard a man on the radio using the words "Content of Character"
+# Followed by what this has taught you:
+We are treasure chests of priceless thoughts, thoughts that quietly sneak into our decision-making, and define our futures.
+
+# ENTRY
+# MEMORY: I drove down to Florida, a small end of road city in a twilight, and walked knee deep into the warm ocean.
+# LESSON:
+We are responsible for where we go, and what will unfold. We have to carefully shape our futures by making authentic and wise decisions in our present.
