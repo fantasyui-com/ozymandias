@@ -11,7 +11,7 @@
     "express": "^4.19.2",
     "hbs": "^4.1.0",
     "http-errors": "^1.7.3",
-    "morgan": "~1.9.1"
+    "morgan": "^1.10.1"
   },
   "description": "A timeline, your legacy, your dynasty, and your elderself.",
   "main": "index.js",
